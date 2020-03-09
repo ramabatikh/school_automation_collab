@@ -1,1 +1,1 @@
-# school_automation_collab
+# This is a school automation project
